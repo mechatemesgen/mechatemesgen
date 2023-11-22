@@ -1,8 +1,14 @@
+
+
+![UCAN LOGO R Tpt](https://github.com/mechatemesgen/mechatemesgen/assets/122341586/9086146b-ae5e-4a12-8832-9fd047779c36)
+
+
+
 ### Hi there 👋
 
 **I am Mecha** 
 
-**ABOUT ME**
+**I am:**
 
 🔭 Currently crafting user-friendly web applications.
 
