@@ -1,4 +1,5 @@
-![Web Banner Gif](https://github.com/mechatemesgen/mechatemesgen/assets/122341586/4793d863-167e-4c7a-ab57-9a188ca6ae77)
+
+![My GitHub Banner](https://github.com/mechatemesgen/mechatemesgen/assets/122341586/9ed1b0b1-c765-4abe-a2cd-a6b30ff0091a)
 
 ### Hi there 👋
 
