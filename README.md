@@ -1,8 +1,4 @@
-
-
-![UCAN LOGO R Tpt](https://github.com/mechatemesgen/mechatemesgen/assets/122341586/9086146b-ae5e-4a12-8832-9fd047779c36)
-
-
+![Web Banner Gif](https://github.com/mechatemesgen/mechatemesgen/assets/122341586/4793d863-167e-4c7a-ab57-9a188ca6ae77)
 
 ### Hi there 👋
 
