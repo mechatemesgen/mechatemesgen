@@ -1,6 +1,6 @@
 
-![My GitHub Banner](https://github.com/mechatemesgen/mechatemesgen/assets/122341586/9ed1b0b1-c765-4abe-a2cd-a6b30ff0091a)
-
+<!-- ![My GitHub Banner](https://github.com/mechatemesgen/mechatemesgen/assets/122341586/9ed1b0b1-c765-4abe-a2cd-a6b30ff0091a)
+-->
 ### Hi there 👋
 
 **I am Mecha** 
